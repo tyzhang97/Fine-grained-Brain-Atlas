@@ -14,6 +14,7 @@ We propose a novel fine-grained brain parcellation with high flexibility and ada
 5. If you wish to compute at other scales, you can reorganize the existing fine-grained atlas based on spatial relationships.
 
 Author: Tongyu Zhang
+
 Contact: tyzhang@ibp.ac.cn
 
 ### Parcellation workflow and Visualization of the fine-grained atlas:
