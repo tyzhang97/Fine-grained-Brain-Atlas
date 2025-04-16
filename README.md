@@ -18,7 +18,7 @@ Author: Tongyu Zhang
 Contact: tyzhang@ibp.ac.cn
 
 
-This work has been accepted for 2025 OHBM Annual Meeting in Brisbane. Welcome to visit the Poster #1804!
+### This work has been accepted for 2025 OHBM Annual Meeting in Brisbane. Welcome to visit the Poster #1804!
 
 ### Parcellation workflow and Visualization of the fine-grained atlas:
 ![Description](/Fig.1.png)
